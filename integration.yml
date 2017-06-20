@@ -5,4 +5,4 @@ app:
 module:
   groupId: me.ele.warlock
   artifactId: cart
-  version: 7.12.0-beta
+  version: 7.12.0-beta1
