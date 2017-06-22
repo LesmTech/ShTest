@@ -1,9 +1,10 @@
 app:
-branch: v7.19
+branch: v7.9
 appId: me.ele
 appInfoId: 28
 module:
 groupId: me.ele.warlock
 artifactId: application
-version: 7.19.0-beta
+version: 7.9.0-beta
+
 
