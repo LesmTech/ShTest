@@ -5,5 +5,6 @@ appInfoId: 28
 module:
 groupId: me.ele.warlock
 artifactId: cart
-version: 9.4.0-beta
+version: 9.4.0-beta2
+
 
