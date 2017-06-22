@@ -1,36 +1,9 @@
 app:
-branch: v7.18
+branch: v7.19
 appId: me.ele
 appInfoId: 28
 module:
 groupId: me.ele.warlock
-artifactId: cart
-branch: v7.18
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+artifactId: application
+version: 7.19.0-beta
 
