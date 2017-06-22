@@ -1,8 +1,9 @@
 app:
-  branch: v7.10
-  appId: me.ele
-  appInfoId: 28
+branch: v7.11
+appId: me.ele
+appInfoId: 28
 module:
-  groupId: me.ele.warlock
-  artifactId: cart
-  version: 7.11.0-beta1
+groupId: me.ele.warlock
+artifactId: cart
+version: 7.11.0-beta6
+
